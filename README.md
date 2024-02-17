@@ -9,12 +9,12 @@ npm i js-aes;
 ### JS_AES Incluse 
 ```  AESEncrypt, AESDencrypt, AESEncryptHex, AESDencryptHex  ```
 ### Parameters
-data : data to be encrypted or decrypted. 
-key  : the secret used to encrypt or decrypt.
-operation : use keywords 'encrypt' or 'decrypt', 
-mode  : cbc or ecb 
-padding : use value "1" or "2" 
-iv : default value '00000000000000000000000000000000' but you can use and share anothet value.
+1. data : data to be encrypted or decrypted. 
+2. key  : the secret used to encrypt or decrypt.
+3. operation : use keywords 'encrypt' or 'decrypt', 
+4. mode  : cbc or ecb 
+5. padding : use value "1" or "2" 
+6. iv : default value '00000000000000000000000000000000' but you can use and share anothet value.
 
 ### Examples Usage
 #### using hexadecimal values for data and Key
