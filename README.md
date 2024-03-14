@@ -4,7 +4,7 @@ perform AES encryption and decryption. zero dependencies, only javascript used, 
 
 ### install
 ```
-npm i js-aes;
+npm i @royelias/js-aes;
 ```
 ### JS_AES Incluse 
 ```  AESEncrypt, AESDencrypt, AESEncryptHex, AESDencryptHex  ```
